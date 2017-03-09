@@ -1,2 +1,2 @@
 # Orange-Video
-A video streaming alternitive to Youtube
+A video streaming alternative to Youtube
